@@ -120,9 +120,13 @@
           <Tempo>
             <tempo>1.7</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> =102
+            <offset x="0.466486" y="-4.64648"/>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> =102
 </b></text>
             </Tempo>
+          <StaffText>
+            <text>Intro</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
